@@ -39,14 +39,3 @@ Dockerize the Flask application.
 Submission Guidelines
 Submit all code and files in a compressed folder or via a version control system (GitHub).
 Include a README file or PDF with instructions on running, testing, and additional notes.
-Evaluation Criteria
-Candidates will be evaluated based on:
-
-Accuracy and clarity of Python data analysis code and Flask web application.
-Code structure, readability, and adherence to best practices.
-Successful deployment of Flask app and functionality of the API.
-Correct and efficient use of SQL queries.
-Effectiveness and creativity in Power BI dashboard design.
-Clear and insightful data visualizations.
-Bonus points for implementing optional features.
-We look forward to reviewing your submission and assessing your skills in this comprehensive data science evaluation project!
